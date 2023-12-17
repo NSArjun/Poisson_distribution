@@ -34,13 +34,13 @@ REGISTER NO: 212223230020
 
 # CODE:
 
- ![prog](https://github.com/NSArjun/Poisson_distribution/assets/148233801/75018531-a4d8-4999-af8f-e01801c5d0ee)
+ ![prog](https://github.com/NSArjun/Poisson_distribution/assets/148233801/a71b261e-7ec9-4761-8cf6-dab6f4cc8ffa)
 
 
 # Output : 
 
-![output](https://github.com/NSArjun/Poisson_distribution/assets/148233801/f6c146d6-0a04-44e7-bf3c-58cda89875ca)
 
+![output](https://github.com/NSArjun/Poisson_distribution/assets/148233801/33177d67-406d-451d-b8d0-8d940e1171b6)
 
 # Results
 
